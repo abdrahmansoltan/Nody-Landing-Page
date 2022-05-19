@@ -24,6 +24,7 @@ h6 {
   font-family: "Rubik", sans-serif;
 }
 
+/* FONTS */
 .font-weight-medium {
   font-weight: 500;
 }
@@ -34,4 +35,87 @@ h6 {
 
 .text-muted {
   color: #9b9bae !important;
+}
+.f-12 {
+  font-size: 12px;
+}
+
+.f-13 {
+  font-size: 13px;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.f-15 {
+  font-size: 15px;
+}
+
+.f-16 {
+  font-size: 16px;
+}
+
+.f-17 {
+  font-size: 17px;
+}
+
+.f-18 {
+  font-size: 18px;
+}
+
+.f-19 {
+  font-size: 19px;
+}
+
+.f-20 {
+  font-size: 20px;
+}
+
+.f-21 {
+  font-size: 21px;
+}
+
+.f-22 {
+  font-size: 22px;
+}
+
+.f-23 {
+  font-size: 23px;
+}
+
+.f-24 {
+  font-size: 24px;
+}
+
+/* ICONS */
+.icon-fill-primary {
+  fill: rgba(57, 86, 222, 0.15);
+}
+.icon-size-15 {
+  height: 15px;
+  width: 15px;
+}
+.icon-xs {
+  height: 20px;
+  width: 20px;
+}
+.icon-lg {
+  height: 30px;
+  width: 30px;
+}
+.icon-xl {
+  height: 35px;
+  width: 35px;
+}
+
+/* ELEMENTS */
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+}
+.card {
+  margin-bottom: 30px;
+  border-color: #eaeaf5;
 }
