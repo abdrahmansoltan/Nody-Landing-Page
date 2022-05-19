@@ -1,0 +1,23 @@
+.hero-1-bg {
+  padding: 200px 0 180px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  .hero-1-title {
+    font-size: 46px;
+  }
+}
+
+// Responsive
+
+@media (min-width: 200px) and (max-width: 768px) {
+  .hero-1-bg {
+    padding: 120px 0 60px;
+  }
+}
+@media (min-width: 200px) and (max-width: 576px) {
+  .hero-1-title {
+    font-size: 36px !important;
+  }
+}

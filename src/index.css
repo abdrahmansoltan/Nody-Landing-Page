@@ -23,3 +23,15 @@ h5,
 h6 {
   font-family: "Rubik", sans-serif;
 }
+
+.font-weight-medium {
+  font-weight: 500;
+}
+
+.font-weight-semibold {
+  font-weight: 600;
+}
+
+.text-muted {
+  color: #9b9bae !important;
+}

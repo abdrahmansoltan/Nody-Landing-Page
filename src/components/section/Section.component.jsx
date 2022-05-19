@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 import Background_img from "../../assets/images/hero-1-bg-img.png";
 import hero_img from "../../assets/images/hero-img.png";
 
+import "./section.styles.scss";
+
 const Section = () => {
   return (
     <>
