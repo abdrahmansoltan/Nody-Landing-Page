@@ -3,19 +3,24 @@
 //
 
 a {
-    text-decoration: none !important;
-    outline: none;
-    color: $primary;
+  text-decoration: none !important;
+  outline: none;
+  color: $primary;
 }
 body {
-    font-family: $font-primary;
-    color: $dark;
-    background: $white;
+  font-family: $font-primary;
+  color: $dark;
+  background: $white;
 }
 p {
-    line-height: 1.6;
+  line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: $font-secondary;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-secondary;
 }
