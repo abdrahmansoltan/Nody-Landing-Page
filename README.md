@@ -10,7 +10,9 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-
+    
+<br>
+ <br>
 <a href="https://nody-landing-page.vercel.app/">
     <img src="./src/assets/images/logo-dark.png" alt="Logo" height="40"  >
   </a>
